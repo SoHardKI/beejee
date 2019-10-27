@@ -1,0 +1,26 @@
+.container {
+    padding-top: 25px; !important;
+}
+
+.sort-div {
+   display: flex; !important;
+}
+
+.paginator {
+    display: flex;
+}
+
+.sort-btn {
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.form-create {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em
+}
+
+.btn-paginator {
+    margin-right: 5px;
+}
